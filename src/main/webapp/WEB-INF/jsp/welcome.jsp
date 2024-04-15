@@ -15,6 +15,7 @@
 </head>
 <body>
 <h1>欢迎 <%= session.getAttribute("username") %>！</h1>
+<h2>来自学校： <%= session.getAttribute("university") %></h2>
 </body>
 </html>
 

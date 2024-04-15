@@ -17,6 +17,7 @@
 <form action="register" method="post">
   用户名：<input type="text" name="username"><br>
   密码：<input type="password" name="password"><br>
+  所在学校：<input type="text" name="university"><br>
   <input type="submit" value="注册">
 </form>
 </body>
